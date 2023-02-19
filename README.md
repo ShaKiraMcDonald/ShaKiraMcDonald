@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kira, an <a href="shakiramcdonald.com">IT Professional</a>☺</h1>
+<h1>Hi, I'm Kira, an <a href="linkedin.com/in/shakiramcdonald>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
