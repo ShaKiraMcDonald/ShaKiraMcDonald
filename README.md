@@ -1,6 +1,6 @@
 <h1>Welcome! I'm Kira, an <a href="https://linkedin.com/in/shakiramcdonald">IT Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/shakiramcdonald/osticket-prereqs)
