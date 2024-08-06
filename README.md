@@ -2,7 +2,7 @@
 
 <h2> Cloud Cybersecurity and IT Projects:</h2>
 
-- <b>Microsoft Azure/Cloud Cybersecurity</b>
+- <b>Microsoft Azure - Cloud Cybersecurity</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/ShaKiraMcDonald/Azure-SOC)
 
 - <b>Microsoft Azure</b>
