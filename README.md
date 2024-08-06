@@ -1,6 +1,6 @@
 <h1>Welcome! I'm Kira, your favorite <a href="https://linkedin.com/in/shakiramcdonald">Cybersecurity Analyst!</a></h1>
 
-<h2> Cloud Cybersecurity and IT Projects:</h2>
+<h2> Cybersecurity and IT Projects:</h2>
 
 - <b>Microsoft Azure - Cloud Cybersecurity</b>
   - [Creating a Live SOC/Honeynet in Azure](https://github.com/ShaKiraMcDonald/Azure-SOC)
